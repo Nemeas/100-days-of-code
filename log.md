@@ -18,6 +18,6 @@
 **Thoughts**: When learning coding we used java, and after getting a job I have been mostly in the .NET universe. Revisiting java now, feels like a step back. There are a lot of problems I have had to solve in different (using more code) ways than I would have if I were coding C#.
 
 ### Day 4: 21.07.2018
-**Today's progress**: Getting the different states of the game to behave as one would expect. Also, levels are complete.
+**Today's progress**: Getting the different states of the game to behave as one would expect. Also, levels are complete and numbers no longer overlap.
 
 **Thoughts**: Things are progressing faster than expected, getting a feeling that this might actually turn into a game at some point. Still missing a lot of things around the game, like score, lvls, balancing difficulty, animations, graphics.. but the game-logic is more or less in place.
