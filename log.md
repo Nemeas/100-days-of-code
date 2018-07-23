@@ -26,3 +26,8 @@
 **Today's progress**: No progress today, just Android Studio trouble.. Did make an attempt to create a positive/negative feedback when completing / failing a stage, animating an image, to no success.
 
 **Thoughts**: StackOverflow to the rescue!
+
+### Day 6: 23.07.2018
+**Today's progress**: Made the animation work!!
+
+**Thoughts**: I am sitting here at 11.30 PM, just finished the one hour of work I'm supposed to do today, and thinking that tomorrow is going to be tough... Still doing the log, and the tweet, but I am wondering if there will be days without any coding at all..
