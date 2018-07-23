@@ -21,3 +21,8 @@
 **Today's progress**: Getting the different states of the game to behave as one would expect. Also, levels are complete and numbers no longer overlap.
 
 **Thoughts**: Things are progressing faster than expected, getting a feeling that this might actually turn into a game at some point. Still missing a lot of things around the game, like score, lvls, balancing difficulty, animations, graphics.. but the game-logic is more or less in place.
+
+### Day 5: 22.07.2018
+**Today's progress**: No progress today, just Android Studio trouble.. Did make an attempt to create a positive/negative feedback when completing / failing a stage, animating an image, to no success.
+
+**Thoughts**: StackOverflow to the rescue!
