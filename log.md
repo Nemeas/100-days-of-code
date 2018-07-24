@@ -31,3 +31,8 @@
 **Today's progress**: Made the animation work!!
 
 **Thoughts**: I am sitting here at 11.30 PM, just finished the one hour of work I'm supposed to do today, and thinking that tomorrow is going to be tough... Still doing the log, and the tweet, but I am wondering if there will be days without any coding at all..
+
+### Day 7: 24.07.2018
+**Today's progress**: No progress in the form of a commit =(
+
+**Thoughts**: Trying out the android Ad thingie, looking at the documentation, reading, coding, getting confused, not knowing what I'm doing.. I get this feeling a lot.. Most of what is in the documentation is things I have no clue what means.. Usually I just try googleing the problem before turning to the documentation. This usually pushes me in the right direction. Propably going to do some more googleing tomorrow.. 
