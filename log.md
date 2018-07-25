@@ -36,3 +36,8 @@
 **Today's progress**: No progress in the form of a commit =(
 
 **Thoughts**: Trying out the android Ad thingie, looking at the documentation, reading, coding, getting confused, not knowing what I'm doing.. I get this feeling a lot.. Most of what is in the documentation is things I have no clue what means.. Usually I just try googleing the problem before turning to the documentation. This usually pushes me in the right direction. Propably going to do some more googleing tomorrow.. 
+
+### Day 8: 25.07.2018
+**Today's progress**: Successfully added ads between each lvl of the game and learned how the whole ads thingie works. 
+
+**Thoughts**: Interesting how easy it is to implement. Also awsome of team google to make so detailed and updated step-by-step guides of how to implement the stuff. Easy and fun to see something that just works right out of the box!
