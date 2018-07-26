@@ -41,3 +41,10 @@
 **Today's progress**: Successfully added ads between each lvl of the game and learned how the whole ads thingie works. 
 
 **Thoughts**: Interesting how easy it is to implement. Also awsome of team google to make so detailed and updated step-by-step guides of how to implement the stuff. Easy and fun to see something that just works right out of the box!
+
+### Day 9: 26.07.2018
+**Today's progress**: Makes it possible to complete one lvl, see the ad, and then start playing the next lvl. Also refactoring and structuring a lot of code.
+
+**Thoughts**: I got the exact amount of work I expected done today! And I would like to call the new feature "play-next-lvl". I am thinking that the game should perhaps make use of the Google Play Games to keep track of lvl, highscores etc, at least I believe I can use it for that.. I have no idea how I'm supposed to implement it, nor how it works, so this would be awsome exercise to learn something new.
+
+
