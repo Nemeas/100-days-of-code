@@ -47,4 +47,8 @@
 
 **Thoughts**: I got the exact amount of work I expected done today! And I would like to call the new feature "play-next-lvl". I am thinking that the game should perhaps make use of the Google Play Games to keep track of lvl, highscores etc, at least I believe I can use it for that.. I have no idea how I'm supposed to implement it, nor how it works, so this would be awsome exercise to learn something new.
 
+### Day 10: 27.07.2018
+**Today's progress**: No real progress, just playing around with different types of activities/fragments/dialogs to see what works for a "congrats! you did well, tap here to play the next lvl"-message.
+
+**Thoughts**: I don't feel like today was really productive. I got nowhere with the dialog, didn't really feel like this was the correct path, so I guess that I'll try making the message like an Activity next, fullscreen and all, more like my reference; Peak.
 
