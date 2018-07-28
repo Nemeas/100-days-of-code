@@ -52,3 +52,10 @@
 
 **Thoughts**: I don't feel like today was really productive. I got nowhere with the dialog, didn't really feel like this was the correct path, so I guess that I'll try making the message like an Activity next, fullscreen and all, more like my reference; Peak.
 
+### Day 11: 28.07.2018
+**Today's progress**: Added a visualisation of the time remaning of the lvl. Also just comitted the next-lvl dialog, even if it don't really work that well, it covers the happyday scenario.
+
+**Thoughts**: I am wondering if I should throw in a new element to the game. Now that the timer is visible, I would like to add a visual cue to random numbers, telling the user that this is a special number (not push this button, allways push this button last/first ?). The cue should indicate that there is some kind of reward attached to the number, like add 6 seconds to the timer, and what action to take. For now the only data I have is the timer and a counter counting completed and failed stages in a lvl... 
+
+I do want this game to be released in some form on Google Play, so I should perhaps just make the game playable before starting to add all kinds of cool and complicating features.. I tend to get too troublesome ideas, setting my standards waaay too high, and never completing a project. If there is one thing I have learned from coding professionally it is three simple letters: MVP! Featuers can be added on later, but making the core functionality is priority 1.
+
