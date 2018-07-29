@@ -59,3 +59,7 @@
 
 I do want this game to be released in some form on Google Play, so I should perhaps just make the game playable before starting to add all kinds of cool and complicating features.. I tend to get too troublesome ideas, setting my standards waaay too high, and never completing a project. If there is one thing I have learned from coding professionally it is three simple letters: MVP! Featuers can be added on later, but making the core functionality is priority 1.
 
+### Day 12: 29.07.2018
+**Today's progress**: Added a bit of a delay before each lvl giving the player time to get ready for the next lvl.
+
+**Thoughts**: There are lots of animations needed to get things to look smooth. Haven't really noticed that before in apps, but without them everything feels so off..
