@@ -63,3 +63,8 @@ I do want this game to be released in some form on Google Play, so I should perh
 **Today's progress**: Added a bit of a delay before each lvl giving the player time to get ready for the next lvl.
 
 **Thoughts**: There are lots of animations needed to get things to look smooth. Haven't really noticed that before in apps, but without them everything feels so off..
+
+### Day 13: 30.07.2018
+**Today's progress**: Reading up on Google Play Games.
+
+**Thoughts**: There is a lot to take in.. not really shure what I am reading, or what I want from this service, or what this service can do.. Will continue to do some research.
