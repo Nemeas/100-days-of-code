@@ -68,3 +68,8 @@ I do want this game to be released in some form on Google Play, so I should perh
 **Today's progress**: Reading up on Google Play Games.
 
 **Thoughts**: There is a lot to take in.. not really shure what I am reading, or what I want from this service, or what this service can do.. Will continue to do some research.
+
+### Day 14: 31.07.2018
+**Today's progress**: No coding progress today, got the app installed on my physical phone, and did some testing. Turns out there is a couple of things that needs more attention than beeing able to log into the game using Google Play Games.
+
+**Thoughts**: I'm thinking the gameplay is ok, but it looks like there is something wrong with the positioning. Also need to add a splash-screen, with perhaps some local highscore (to begin with), and a button to start the game. It's a bit annoying that it just starts when starting the game, no time to prepare..
