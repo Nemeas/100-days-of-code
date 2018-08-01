@@ -73,3 +73,8 @@ I do want this game to be released in some form on Google Play, so I should perh
 **Today's progress**: No coding progress today, got the app installed on my physical phone, and did some testing. Turns out there is a couple of things that needs more attention than beeing able to log into the game using Google Play Games.
 
 **Thoughts**: I'm thinking the gameplay is ok, but it looks like there is something wrong with the positioning. Also need to add a splash-screen, with perhaps some local highscore (to begin with), and a button to start the game. It's a bit annoying that it just starts when starting the game, no time to prepare..
+
+### Day 15: 01.08.2018
+**Today's progress**: Got all the bugs I found when testing on the physical device sorted out and pushed!
+
+**Thoughts**: Only thing missing now is the start-screen, and perhaps some graphics... Also, no progress is beeing tracked, so I don't think the login with Google Play Games is necessary per now. Need to figure out what I'm going to track first..
