@@ -78,3 +78,8 @@ I do want this game to be released in some form on Google Play, so I should perh
 **Today's progress**: Got all the bugs I found when testing on the physical device sorted out and pushed!
 
 **Thoughts**: Only thing missing now is the start-screen, and perhaps some graphics... Also, no progress is beeing tracked, so I don't think the login with Google Play Games is necessary per now. Need to figure out what I'm going to track first..
+
+### Day 16: 02.08.2018
+**Today's progress**: Fixing more bugs related to if you press the back-button on the phone when the game has started, etc. Also added a startGameScreen, including a placeholder image and a button that says "Play".
+
+**Thoughts**: It's getting there. I'm happy I started testing the game on my physical phone.. there is so many things that can happen!
