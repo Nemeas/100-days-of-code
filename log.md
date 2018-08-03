@@ -83,3 +83,8 @@ I do want this game to be released in some form on Google Play, so I should perh
 **Today's progress**: Fixing more bugs related to if you press the back-button on the phone when the game has started, etc. Also added a startGameScreen, including a placeholder image and a button that says "Play".
 
 **Thoughts**: It's getting there. I'm happy I started testing the game on my physical phone.. there is so many things that can happen!
+
+### Day 17: 03.08.2018
+**Today's progress**: Fixing even more bugs related to outside influence (turning off the screen), but this made me add an "pause"-feature =)
+
+**Thoughts**: Bugs, bugs, bugs, bugs.. so much to think about.. But I think I have something that workes better now than it did yesterday, so thats a win! I need to figure out how to make the player progress.. I want this to be done using some kind of algorithm.. taking the score over time, and creating a lvl of difficulty appropriate to the players current state.
