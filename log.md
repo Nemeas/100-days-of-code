@@ -96,3 +96,5 @@ I do want this game to be released in some form on Google Play, so I should perh
 **Thoughts**: I did a couple of attempts here, but none felt good when playing. My mind also wandered towards ML, but I have no idea where to start, and I think perhaps this might be overkill for my first game.. I don't want to maintain a list of hardcoded game-difficulty-setup, I want some kind of algorithm to just make it happen, in a good way..
 
 Also I need to figure out how to lvl a player. I don't know what to use.. I can't really just say that, ok, you finished the first stage with 20 wins, so you are now lvl 2! congrats! Hm.. then the difficulty should increase, so it would be more difficult to reach 20 wins.. hm.. I might be on to something here..
+
+Also I was thinking that if you could manage, lets say 5 stages with over 15 (win-fail) you get an achievement, and this continues for 10, 15 etc.
