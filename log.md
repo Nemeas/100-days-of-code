@@ -89,7 +89,6 @@ I do want this game to be released in some form on Google Play, so I should perh
 
 **Thoughts**: Bugs, bugs, bugs, bugs.. so much to think about.. But I think I have something that workes better now than it did yesterday, so thats a win! I need to figure out how to make the player progress.. I want this to be done using some kind of algorithm.. taking the score over time, and creating a lvl of difficulty appropriate to the players current state.
 
-
 ### Day 18: 04.08.2018
 **Today's progress**: Trying to make the difficulty in the game interesting.. ended up with a frame that will do the job, but not the implementation.
 
@@ -98,3 +97,8 @@ I do want this game to be released in some form on Google Play, so I should perh
 Also I need to figure out how to lvl a player. I don't know what to use.. I can't really just say that, ok, you finished the first stage with 20 wins, so you are now lvl 2! congrats! Hm.. then the difficulty should increase, so it would be more difficult to reach 20 wins.. hm.. I might be on to something here..
 
 Also I was thinking that if you could manage, lets say 5 stages with over 15 (win-fail) you get an achievement, and this continues for 10, 15 etc.
+
+### Day 19: 05.08.2018
+**Today's progress**: Trying out a way to set the number of numbers based on a players lvl.
+
+**Thoughts**: Still missing some way of modifying the min-max range. I want the player to have a set min-max based on the lvl, but it should be tweeked if the player suddenly fails a lot, to make it a wee bit easyer, and the range should be increased as the player progress.
