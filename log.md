@@ -102,3 +102,5 @@ Also I was thinking that if you could manage, lets say 5 stages with over 15 (wi
 **Today's progress**: Trying out a way to set the number of numbers based on a players lvl.
 
 **Thoughts**: Still missing some way of modifying the min-max range. I want the player to have a set min-max based on the lvl, but it should be tweeked if the player suddenly fails a lot, to make it a wee bit easyer, and the range should be increased as the player progress.
+
+Just had an idea.. Of how to increase difficulty without having to just tweek the min-max. The size of the buttons could decrease as the player progress, and even better; move. They can float around, or even better; "flow" using the accelerometer, so that they suddenly seem to "float on water".
