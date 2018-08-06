@@ -104,3 +104,10 @@ Also I was thinking that if you could manage, lets say 5 stages with over 15 (wi
 **Thoughts**: Still missing some way of modifying the min-max range. I want the player to have a set min-max based on the lvl, but it should be tweeked if the player suddenly fails a lot, to make it a wee bit easyer, and the range should be increased as the player progress.
 
 Just had an idea.. Of how to increase difficulty without having to just tweek the min-max. The size of the buttons could decrease as the player progress, and even better; move. They can float around, or even better; "flow" using the accelerometer, so that they suddenly seem to "float on water".
+
+### Day 20: 06.08.2018
+**Today's progress**: Refactoring code to make it less chaotic!
+
+**Thoughts**: It took some time, but I eventually figured out that the only way this state-machine was going to not bug so much was to refactor out as much as possible to try to create some kind of single-responsibility-thingie, and it worked! The bug no longer is.
+
+Have to test more now that there are less bugs. Also I'm wondering if I should create some kind of dev-hack to set the lvl, because now I have to play several stages in order to lvl enough to play on the more advanced lvls.
