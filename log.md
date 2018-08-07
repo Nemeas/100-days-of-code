@@ -111,3 +111,8 @@ Just had an idea.. Of how to increase difficulty without having to just tweek th
 **Thoughts**: It took some time, but I eventually figured out that the only way this state-machine was going to not bug so much was to refactor out as much as possible to try to create some kind of single-responsibility-thingie, and it worked! The bug no longer is.
 
 Have to test more now that there are less bugs. Also I'm wondering if I should create some kind of dev-hack to set the lvl, because now I have to play several stages in order to lvl enough to play on the more advanced lvls.
+
+### Day 21: 07.08.2018
+**Today's progress**: Added login with google, and retrieving the profile-image from the object returned to display on screen.
+
+**Thoughts**: I am thinking of removing the increase in difficulty, and add a leaderboard with points beeing wins - loss.. not shure yet.. Perhaps I should start with that.. or even easyer, display the highscore on the startScreen, and just saving it locally.. Then release the game to some betatesters, see what's up, and THEN perhaps setup a highscore-list.. somewhere..
