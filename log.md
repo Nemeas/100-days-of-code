@@ -116,3 +116,8 @@ Have to test more now that there are less bugs. Also I'm wondering if I should c
 **Today's progress**: Added login with google, and retrieving the profile-image from the object returned to display on screen.
 
 **Thoughts**: I am thinking of removing the increase in difficulty, and add a leaderboard with points beeing wins - loss.. not shure yet.. Perhaps I should start with that.. or even easyer, display the highscore on the startScreen, and just saving it locally.. Then release the game to some betatesters, see what's up, and THEN perhaps setup a highscore-list.. somewhere..
+
+### Day 22: 08.08.2018
+**Today's progress**: Branched off a playable version of the game to start the release process.
+
+**Thoughts**: Looks like there are some things that don't really fit together.. need more time..
