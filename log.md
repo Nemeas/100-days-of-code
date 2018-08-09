@@ -121,3 +121,8 @@ Have to test more now that there are less bugs. Also I'm wondering if I should c
 **Today's progress**: Branched off a playable version of the game to start the release process.
 
 **Thoughts**: Looks like there are some things that don't really fit together.. need more time..
+
+### Day 23: 09.08.2018
+**Today's progress**: Got the APK uploaded, but now I need testers..
+
+**Thoughts**: Perhaps I'll ask twitter for help here..
