@@ -126,3 +126,8 @@ Have to test more now that there are less bugs. Also I'm wondering if I should c
 **Today's progress**: Got the APK uploaded, but now I need testers..
 
 **Thoughts**: Perhaps I'll ask twitter for help here..
+
+### Day 24: 10.08.2018
+**Today's progress**: Gotten a few testers, pressing publish!
+
+**Thoughts**: What happens next..
