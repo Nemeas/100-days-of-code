@@ -131,3 +131,8 @@ Have to test more now that there are less bugs. Also I'm wondering if I should c
 **Today's progress**: Gotten a few testers, pressing publish!
 
 **Thoughts**: What happens next..
+
+### Day 25: 11.08.2018
+**Today's progress**: Waiting for testers to install and give feedback.
+
+**Thoughts**: What to do while waiting..
