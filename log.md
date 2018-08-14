@@ -146,3 +146,8 @@ Have to test more now that there are less bugs. Also I'm wondering if I should c
 **Today's progress**: Trying to figure out how leaderboards work.
 
 **Thoughts**: There is a lot to take in here.. I both love and hate the way the different resources are linked, I have like 50 tabs open in Chrome, all originated from some resource.. I'm never going to get through all this..
+
+### Day 27: 12.08.2018
+**Today's progress**: Added login again.
+
+**Thoughts**: So I removed the login from the alpha to make it a pure on-device kind of game.. noone played it, so I'm going to add a leaderboard! And now I need the login again.. Doing it as automatic as possible, no user interaction needed, unless it's the first time.
