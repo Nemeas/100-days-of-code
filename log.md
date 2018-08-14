@@ -136,3 +136,13 @@ Have to test more now that there are less bugs. Also I'm wondering if I should c
 **Today's progress**: Waiting for testers to install and give feedback.
 
 **Thoughts**: What to do while waiting..
+
+### Day 25: 11.08.2018
+**Today's progress**: Waiting for testers to install and give feedback.
+
+**Thoughts**: What to do while waiting..
+
+### Day 26: 12.08.2018
+**Today's progress**: Trying to figure out how leaderboards work.
+
+**Thoughts**: There is a lot to take in here.. I both love and hate the way the different resources are linked, I have like 50 tabs open in Chrome, all originated from some resource.. I'm never going to get through all this..
