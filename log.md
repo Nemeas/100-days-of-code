@@ -156,3 +156,8 @@ Have to test more now that there are less bugs. Also I'm wondering if I should c
 **Today's progress**: Created a new alpha-version!
 
 **Thoughts**: I hope everything works perfect!! Then I'll be able to just push this alpha to beta!
+
+### Day 30: 16.08.2018
+**Today's progress**: Fixing bugs
+
+**Thoughts**: There is a reason that we have alpha before beta before release!.. Turns out only I can login, and only with my dev-account... I have no idea what's going on...
