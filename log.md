@@ -137,11 +137,6 @@ Have to test more now that there are less bugs. Also I'm wondering if I should c
 
 **Thoughts**: What to do while waiting..
 
-### Day 25: 11.08.2018
-**Today's progress**: Waiting for testers to install and give feedback.
-
-**Thoughts**: What to do while waiting..
-
 ### Day 26: 12.08.2018
 **Today's progress**: Trying to figure out how leaderboards work.
 
@@ -156,3 +151,8 @@ Have to test more now that there are less bugs. Also I'm wondering if I should c
 **Today's progress**: Added leaderboard!!!
 
 **Thoughts**: So... that was easy... once I got to the correct resource, there was like 3 lines of code.. and it looks amazing!
+
+### Day 29: 15.08.2018
+**Today's progress**: Created a new alpha-version!
+
+**Thoughts**: I hope everything works perfect!! Then I'll be able to just push this alpha to beta!
