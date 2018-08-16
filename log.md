@@ -161,3 +161,8 @@ Have to test more now that there are less bugs. Also I'm wondering if I should c
 **Today's progress**: Fixing bugs
 
 **Thoughts**: There is a reason that we have alpha before beta before release!.. Turns out only I can login, and only with my dev-account... I have no idea what's going on...
+
+### Day 31: 17.08.2018
+**Today's progress**: Reading a lot! and adding the alpha-testers as testers in the testingPlace..
+
+**Thoughts**: Turns out that for a person to test the game, I need to manually type the email into a group of testers where I can manage the releases of the game.. I ALSO HAVE TO ADD THE EMAIL IN THE list in the TestingPlace of the Google Play Console for the testers to be able to actually login to the game... This has taken me 2! TWO!! days to realize!!!
