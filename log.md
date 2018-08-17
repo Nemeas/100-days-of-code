@@ -166,3 +166,8 @@ Have to test more now that there are less bugs. Also I'm wondering if I should c
 **Today's progress**: Reading a lot! and adding the alpha-testers as testers in the testingPlace..
 
 **Thoughts**: Turns out that for a person to test the game, I need to manually type the email into a group of testers where I can manage the releases of the game.. I ALSO HAVE TO ADD THE EMAIL IN THE list in the TestingPlace of the Google Play Console for the testers to be able to actually login to the game... This has taken me 2! TWO!! days to realize!!!
+
+### Day 32: 18.08.2018
+**Today's progress**: Adding the correct SHA1 to firebase, downloading the updated google-services.json and testing the new signed apk before releasing a new alpha, to make shure the login works..
+
+**Thoughts**: There is a difference between running in debug-mode vs. installing the signed apk, and runnning that. It's more troublesome, and you get no debug-info, but for testing, it's gold!
