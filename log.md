@@ -171,3 +171,8 @@ Have to test more now that there are less bugs. Also I'm wondering if I should c
 **Today's progress**: Adding the correct SHA1 to firebase, downloading the updated google-services.json and testing the new signed apk before releasing a new alpha, to make shure the login works..
 
 **Thoughts**: There is a difference between running in debug-mode vs. installing the signed apk, and runnning that. It's more troublesome, and you get no debug-info, but for testing, it's gold!
+
+### Day 33: 19.08.2018
+**Today's progress**: Waiting for alphas to test and collecting bugs on the fly.
+
+**Thoughts**: Leaderboard.. why you no work allways?!
