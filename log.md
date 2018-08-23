@@ -176,3 +176,14 @@ Have to test more now that there are less bugs. Also I'm wondering if I should c
 **Today's progress**: Waiting for alphas to test and collecting bugs on the fly.
 
 **Thoughts**: Leaderboard.. why you no work allways?!
+
+### Day 36: 22.08.2018
+**Today's progress**: ...
+
+**Thoughts**: I am starting to think that this leaderboard-thing is not worth the effort.. I have read and tried one hundred and fifty six million and four different "oh, you just have to do these 15 steps exactly as I write them"s and nothing has worked.. 
+
+After getting some distance from the project, I wonder if there might be a problem with the way I access the leaderboard, or perhaps the way I retrieve the logged in user.. or perhaps that I just use an old version of some API, and that this is fixed in later versions..
+
+I am currently using the way to retrieve users as described on the android official sites. I have also followed exactly the way to implement the leaderboard as described on the official android sites..
+
+It's wiered that everything works perfect when I am in debug.. Some say that every problem they had with the leaderboard went away when setting the game out in production.. Perhaps it's worth a try.. It's either that or remove the whole thing.. Just have the local highscore.. 
