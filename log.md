@@ -187,3 +187,8 @@ After getting some distance from the project, I wonder if there might be a probl
 I am currently using the way to retrieve users as described on the android official sites. I have also followed exactly the way to implement the leaderboard as described on the official android sites..
 
 It's wiered that everything works perfect when I am in debug.. Some say that every problem they had with the leaderboard went away when setting the game out in production.. Perhaps it's worth a try.. It's either that or remove the whole thing.. Just have the local highscore.. 
+
+### Day 42: 28.08.2018
+**Today's progress**: After more or less just giving up, I have spent a couple of days writing the whole thing all over again, using an example https://github.com/playgameservices/android-basic-samples/blob/master/TypeANumber, to no avail... leaderboards still don't work.. also added a score counter in the game-play section, and a back-button on the "congrats! this is your score"-dialog. 
+
+**Thoughts**: So instead of using seperate Activities for each scene, I now use Fragments, which are more like components in angular, so it's something I am used to, so the whole refactoring didn't take long. I was hoping that since I was using seperate Activities and the login was its own activity, and the show-leaderboard-button was on some other activity, the user-login-thing would be wrong, but no.. Still won't show the leaderboard after submitting a score..
