@@ -197,3 +197,8 @@ It's wiered that everything works perfect when I am in debug.. Some say that eve
 **Todays progress**: Adding vibration on fail, fixing some bugs after refactoring to using fragments.
 
 **Thaughts**: Still going nowhere with the Leaderboard-problem.. I have no idea what to do..
+
+### Day 45: 31.08.2018
+**Todays progress**: Leaderboards are a go! Turns out that all I needed was to bump the minSDK version? Had to do this to add the vibration on fail.
+
+**Thaughts**: I.. am.. soo.. content! Now all that's missing is fixing one (or more) bugs, and it will be ready for open beta.
