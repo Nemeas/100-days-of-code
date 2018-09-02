@@ -202,3 +202,8 @@ It's wiered that everything works perfect when I am in debug.. Some say that eve
 **Todays progress**: Leaderboards are a go! Turns out that all I needed was to bump the minSDK version? Had to do this to add the vibration on fail.
 
 **Thaughts**: I.. am.. soo.. content! Now all that's missing is fixing one (or more) bugs, and it will be ready for open beta.
+
+### Day 47: 02.09.2018
+**Todays progress**: Bugfixing and starting to implement achievments! Mostly reading and planning.
+
+**Thaughts**: So many things to think about when creating achievments.. Event the Icons kind of have to look good.. cuz once an achievment is published, there is no turning back..
