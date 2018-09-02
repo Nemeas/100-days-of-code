@@ -204,6 +204,23 @@ It's wiered that everything works perfect when I am in debug.. Some say that eve
 **Thaughts**: I.. am.. soo.. content! Now all that's missing is fixing one (or more) bugs, and it will be ready for open beta.
 
 ### Day 47: 02.09.2018
-**Todays progress**: Bugfixing and starting to implement achievments! Mostly reading and planning.
+**Todays progress**: Bugfixing and starting to implement achievments! Mostly reading and planning. Also took the latest alpha to beta!
 
-**Thaughts**: So many things to think about when creating achievments.. Event the Icons kind of have to look good.. cuz once an achievment is published, there is no turning back..
+**Thaughts**: So many things to think about when creating achievments.. Even the icons kind of have to look good.. cuz once an achievment is published, there is no turning back.. this needs more planning than actual coding.. 
+
+I'm thinking I can add some incremental achievements
+* with score >= 20: 
+   * 10 rounds: novice
+   * 25 rounds: intermediate
+   * 100 rounds: senior
+   * 500 rounds: expert
+
+* with score >= 20 and lvl >= 10 (lvl is a hidden feature, so therefore this would be hidden achievements)
+   * ?
+
+Perhaps some static achievements:
+* Score == 0: Noob
+* Score > 15: Good
+* Score > 20: Gooder
+* Score > 25: Goodest
+* Score > 30: Leet
